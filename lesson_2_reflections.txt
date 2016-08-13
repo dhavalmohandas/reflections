@@ -9,3 +9,6 @@ A3. We can add only those files which we need to commit in their current version
 
 Q4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A4. Branches would be heplful when we are testing a different version of something. This can later be merged with the master branch.
+
+Q5. How do the diagrams help you visualize the branch structure?
+A5. Diagrams help us to see the sequence of commits and the nodes from which different brannches have been created.
