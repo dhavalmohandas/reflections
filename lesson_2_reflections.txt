@@ -3,3 +3,9 @@ A1. When a rep is initialized a .git folder is created. This is needed to store 
 
 Q2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 A2. Staging area contains the files which are staged for a commit. This may not include all the files in the working directory. This allows commits to be logical by adding only a group of logical changes in the staging directory.
+
+Q3. How can you use the staging area to make sure you have one commit per logical change?
+A3. We can add only those files which we need to commit in their current version for a particular commit.
+
+Q4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A4. Branches would be heplful when we are testing a different version of something. This can later be merged with the master branch.
