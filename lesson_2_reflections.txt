@@ -12,3 +12,6 @@ A4. Branches would be heplful when we are testing a different version of somethi
 
 Q5. How do the diagrams help you visualize the branch structure?
 A5. Diagrams help us to see the sequence of commits and the nodes from which different brannches have been created.
+
+Q6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A6. All the commits in the coin branch are now included in the master branch. They are arranged chronologically in the git log history. The parent of a commmit may not be the previous commit due to merging of branches.
