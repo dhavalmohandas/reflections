@@ -1,5 +1,5 @@
 Q1. What happens when you initialize a repository? Why do you need to do it?
-A1. When a rep is initialized a .git folder is created. This is needed to store the metadata of all the versions of the files in 
+A1. When a rep is initialized a .git folder is created. This is needed to store the metadata of all the versions of the files in. 
 
 Q2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 A2. Staging area contains the files which are staged for a commit. This may not include all the files in the working directory. This allows commits to be logical by adding only a group of logical changes in the staging directory.
